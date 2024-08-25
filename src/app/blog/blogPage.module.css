@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.title{
+    background-color: chocolate;
+    color:white;
+    padding: 5px 10px;
+    text-align: center;
+}
